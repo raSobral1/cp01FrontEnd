@@ -1,0 +1,181 @@
+/* Estilo geral */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f3ee;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: #6b1a2a;
+    padding: 15px 30px;
+}
+
+header h1 {
+    color: #f0d080;
+    font-size: 28px;
+    margin: 0 0 10px 0;
+}
+
+
+nav a {
+    color: #f9f3ee;
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 16px;
+}
+
+nav a:hover {
+    color: #f0d080;
+}
+
+/* Conteúdo principal */
+main {
+    padding: 30px;
+}
+
+/* Títulos de seção */
+h2 {
+    color: #6b1a2a;
+    font-size: 26px;
+    border-bottom: 2px solid #6b1a2a;
+    padding-bottom: 5px;
+}
+
+h3 {
+    color: #6b1a2a;
+}
+
+/* Parágrafos */
+p {
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+/* Imagens */
+img {
+    width: 100%;
+    max-width: 600px;
+    margin: 15px 0;
+}
+
+/* Listas */
+ul, ol {
+    font-size: 16px;
+    line-height: 2;
+    margin-left: 20px;
+}
+
+/* Tabela */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 15px;
+}
+
+table th {
+    background-color: #6b1a2a;
+    color: white;
+    padding: 10px;
+    text-align: left;
+}
+
+table td {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+table tr:nth-child(even) {
+    background-color: #f0e8dc;
+}
+
+/* Formulário */
+#form-contato {
+    margin-top: 20px;
+}
+
+#form-contato label {
+    display: block;
+    font-weight: bold;
+    margin-top: 15px;
+    color: #6b1a2a;
+}
+
+#form-contato input,
+#form-contato textarea {
+    width: 400px;
+    padding: 8px;
+    font-size: 15px;
+    border: 1px solid #ccc;
+    margin-top: 5px;
+}
+
+#form-contato textarea {
+    height: 120px;
+}
+
+#form-contato button {
+    margin-top: 15px;
+    padding: 10px 25px;
+    background-color: #6b1a2a;
+    color: white;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#form-contato button:hover {
+    background-color: #4a0f1c;
+}
+
+
+footer {
+    background-color: #6b1a2a;
+    color: #f9f3ee;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    font-size: 14px;
+}
+
+footer a {
+    color: #f0d080;
+    text-decoration: none;
+}
+
+/* Classe de destaque */
+.destaque {
+    background-color: #f0e8dc;
+    border-left: 4px solid #6b1a2a;
+    padding: 12px 18px;
+    margin: 15px 0;
+}
+
+
+#banner {
+    background-color: #6b1a2a;
+    color: #f9f3ee;
+    padding: 40px 30px;
+    text-align: center;
+}
+
+#banner h2 {
+    color: #f0d080;
+    font-size: 36px;
+    border: none;
+}
+
+#banner p {
+    font-size: 18px;
+}
+
+#banner a {
+    background-color: #f0d080;
+    color: #6b1a2a;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+}
