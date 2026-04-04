@@ -1,14 +1,51 @@
-Rafael Taboda Sobral  569527
-Erick RIpari Gomes 569441
-Guilherme Mazzini Nunes Canno 573183
+#Vinheria Agnello
+
+##Descrição do Projeto
+
+A Vinheria Agnello é uma empresa familiar localizada em São Paulo, com mais de 15 anos de atuação no mercado de vinhos. Seu principal diferencial é o atendimento personalizado, onde os vendedores auxiliam os clientes com recomendações sobre uvas, regiões, vinícolas e harmonizações.
+
+Devido ao impacto da pandemia, a empresa enfrentou uma queda no movimento da loja física, levando muitos clientes a migrarem para o ambiente online. Diante desse cenário, o proprietário Giulio, com o apoio de sua filha Bianca, decidiu investir na criação de um portal de e-commerce.
+
+Este projeto tem como objetivo desenvolver um site institucional e inicial para a vinheria, focando na experiência do usuário, organização das informações e apresentação dos produtos.
+
+---
+
+##Estrutura do Projeto
+
+O site é composto pelas seguintes páginas:
+
+- index.html (Início) 
+  Página principal do site, com apresentação da vinheria.
+
+- historia.html (Nossa História)  
+  Conta a trajetória da empresa, sua origem e evolução.
+
+- produtos.html (Produtos)  
+  Exibe alguns vinhos disponíveis, com imagens, lista e tabela de informações.
+
+- harmonizacao.html (Harmonização)  
+  Apresenta sugestões de combinação entre vinhos e alimentos.
+
+- contato.html (Contato)  
+  Contém informações de contato e um formulário para envio de mensagens.
+
+- css/style.css  
+  Arquivo responsável pela estilização do site.
+
+---
+
+##Integrantes
+
+- Guilherme Mazzini - RM:573183
+- Rafael Taboada Sobral - RM:569527
+- Erick Ripari Gomes - RM: 569441
+
+---
+
+##Acesso ao Projeto
+
+Acesse o site publicado no GitHub Pages:  
 
 
 
 
-
-
-Cuidado com essa resposta. Pode conter informações falsas, perigosas ou ilegais. Em caso de dúvidas, fale com um adulto de confiança.
-O Gemini disse
-O "caso da Vinharia Agnello" (frequentemente grafado como Vinheria) não se trata de um acontecimento jurídico ou de um escândalo real no mundo corporativo, mas sim de um estudo de caso acadêmico muito popular em cursos de tecnologia no Brasil, com bastante destaque na FIAP (Faculdade de Informática e Administração Paulista). Ele é utilizado como um projeto prático para avaliar estudantes em disciplinas de engenharia de software, sistemas computacionais e Edge Computing.
-
-No cenário fictício proposto, os alunos assumem o papel de desenvolvedores "contratados" pelo dono da vinheria para criar um sistema automatizado de monitoramento usando placas Arduino. O desafio é desenvolver circuitos e códigos que controlem a qualidade do ambiente de armazenamento dos vinhos, utilizando sensores de luminosidade (LDR), temperatura e umidade. Para concluir o caso, o sistema deve ser capaz de acionar alertas visuais (LEDs verdes, amarelos e vermelhos) e sonoros (buzzers) sempre que as condições da adega saírem do padrão ideal, garantindo a conservação perfeita das garrafas
