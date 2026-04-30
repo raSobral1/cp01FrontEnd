@@ -2,11 +2,12 @@
 
 ##Descrição do Projeto
 
-A Vinheria Agnello é uma empresa familiar localizada em São Paulo, com mais de 15 anos de atuação no mercado de vinhos. Seu principal diferencial é o atendimento personalizado, onde os vendedores auxiliam os clientes com recomendações sobre uvas, regiões, vinícolas e harmonizações.
+A Vinheria Agnello é uma tradicional empresa familiar situada em São Paulo, atuando há mais de 15 anos no mercado de vinhos com excelência e dedicação. Reconhecida pelo atendimento altamente personalizado, a vinheria se destaca por oferecer aos clientes orientações especializadas sobre diferentes tipos de uvas, regiões produtoras, vinícolas renomadas e harmonizações ideais, proporcionando uma experiência única de compra.
 
-Devido ao impacto da pandemia, a empresa enfrentou uma queda no movimento da loja física, levando muitos clientes a migrarem para o ambiente online. Diante desse cenário, o proprietário Giulio, com o apoio de sua filha Bianca, decidiu investir na criação de um portal de e-commerce.
+Com os impactos causados pela pandemia, a empresa enfrentou uma significativa redução no fluxo de clientes em sua loja física, enquanto o comportamento do consumidor passou por uma transformação acelerada em direção ao ambiente digital. Diante desse novo cenário, Giulio, proprietário da vinheria, juntamente com sua filha Bianca, identificou a necessidade de modernização do negócio por meio da criação de um portal de e-commerce.
 
-Este projeto tem como objetivo desenvolver um site institucional e inicial para a vinheria, focando na experiência do usuário, organização das informações e apresentação dos produtos.
+Este projeto tem como propósito desenvolver um site institucional inicial para a Vinheria Agnello, com foco na valorização da experiência do usuário, na organização eficiente das informações e na apresentação atrativa dos produtos, fortalecendo assim a presença digital da empresa e ampliando seu alcance no mercado online.
+
 
 ---
 
