@@ -1,0 +1,52 @@
+/* TRANSIÇÕES */
+nav a,
+#form-contato button,
+img {
+    transition: all 0.3s ease;
+}
+
+/* TRANSFORMAÇÕES */
+img:hover {
+    transform: scale(1.05) rotate(1deg);
+}
+
+#form-contato button:hover {
+    transform: scale(1.1);
+}
+
+#banner a:hover {
+    transform: translateY(-3px);
+}
+
+/* ANIMAÇÃO 1 - ENTRADA */
+@keyframes aparecer {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+main {
+    animation: aparecer 1s ease-in-out;
+}
+
+/* ANIMAÇÃO 2 - PULSO */
+@keyframes pulsar {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.05);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+#banner a {
+    animation: pulsar 2s infinite;
+}

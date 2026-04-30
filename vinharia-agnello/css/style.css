@@ -1,4 +1,4 @@
-
+@import url("efeitos.css");
 
 body {
     font-family: Arial, sans-serif;
@@ -60,7 +60,7 @@ h2 {
 }
 
 h2::after {
-    content: " ✨";
+    content: " 🍷";
 }
 
 h3 {
